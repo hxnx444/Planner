@@ -1,0 +1,13 @@
+{
+  "name": "My Magical Planner",
+  "short_name": "Magical Planner",
+  "description": "A dreamy pink planner for gentle, magical progress.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff6fb",
+  "theme_color": "#f8c6e2",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
